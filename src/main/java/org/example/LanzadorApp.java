@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.Scanner; // Importamos Scanner para leer datos por teclado
 
 // Clase principal del programa
-public class Main {
+public class LanzadorApp {
     // Método main: punto de entrada de la aplicación
     public static void main(String[] args) throws IOException, InterruptedException {
         Scanner teclado = new Scanner(System.in); // Objeto para leer entradas del usuario por consola
